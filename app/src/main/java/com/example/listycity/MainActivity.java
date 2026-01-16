@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
                 String city = inputField.getText().toString();
                 dataList.add(city);
                 cityAdapter.notifyDataSetChanged();
+                inputField.setText("");
+                inputField.setVisibility(View.GONE);
                 confirmButton.setVisibility(View.GONE);
             }
         });
