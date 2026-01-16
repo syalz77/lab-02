@@ -7,7 +7,15 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable. N/A
+List any resources used here, or simply put `N/A` if not applicable. 
+
+https://developer.android.com/develop/ui/views/components/button
+
+https://www.geeksforgeeks.org/android/handling-click-events-button-android-java/
+
+https://developer.android.com/reference/android/widget/AdapterView.OnItemClickListener
+
+https://developer.android.com/develop/ui/views/animations/reveal-or-hide-view
 
 ## Verbal Collaboration
 
